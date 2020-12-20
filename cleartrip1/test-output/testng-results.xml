@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75271" started-at="2020-12-20T19:05:19 IST" finished-at="2020-12-20T19:06:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75271" started-at="2020-12-20T19:05:19 IST" finished-at="2020-12-20T19:06:35 IST">
+      <class name="ClearTrip.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:ClearTrip.NewTest@711f39f9]" name="beforeTest" is-config="true" duration-ms="9215" started-at="2020-12-20T19:05:19 IST" finished-at="2020-12-20T19:05:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setDemo()[pri:1, instance:ClearTrip.NewTest@711f39f9]" name="setDemo" duration-ms="3345" started-at="2020-12-20T19:05:29 IST" finished-at="2020-12-20T19:05:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDemo -->
+        <test-method status="PASS" signature="date()[pri:2, instance:ClearTrip.NewTest@711f39f9]" name="date" duration-ms="169" started-at="2020-12-20T19:05:32 IST" finished-at="2020-12-20T19:05:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- date -->
+        <test-method status="PASS" signature="dropdown()[pri:3, instance:ClearTrip.NewTest@711f39f9]" name="dropdown" duration-ms="2335" started-at="2020-12-20T19:05:32 IST" finished-at="2020-12-20T19:05:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method status="PASS" signature="flight_button()[pri:4, instance:ClearTrip.NewTest@711f39f9]" name="flight_button" duration-ms="3118" started-at="2020-12-20T19:05:35 IST" finished-at="2020-12-20T19:05:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flight_button -->
+        <test-method status="PASS" signature="Checking_CheckBox()[pri:5, instance:ClearTrip.NewTest@711f39f9]" name="Checking_CheckBox" duration-ms="11802" started-at="2020-12-20T19:05:38 IST" finished-at="2020-12-20T19:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checking_CheckBox -->
+        <test-method status="PASS" signature="slider()[pri:6, instance:ClearTrip.NewTest@711f39f9]" name="slider" duration-ms="3555" started-at="2020-12-20T19:05:49 IST" finished-at="2020-12-20T19:05:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slider -->
+        <test-method status="PASS" signature="Uncheck()[pri:7, instance:ClearTrip.NewTest@711f39f9]" name="Uncheck" duration-ms="5136" started-at="2020-12-20T19:05:53 IST" finished-at="2020-12-20T19:05:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Uncheck -->
+        <test-method status="PASS" signature="Flight_booking()[pri:8, instance:ClearTrip.NewTest@711f39f9]" name="Flight_booking" duration-ms="3147" started-at="2020-12-20T19:05:58 IST" finished-at="2020-12-20T19:06:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flight_booking -->
+        <test-method status="PASS" signature="Window_handel()[pri:9, instance:ClearTrip.NewTest@711f39f9]" name="Window_handel" duration-ms="5023" started-at="2020-12-20T19:06:01 IST" finished-at="2020-12-20T19:06:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Window_handel -->
+        <test-method status="PASS" signature="Continue_booking()[pri:10, instance:ClearTrip.NewTest@711f39f9]" name="Continue_booking" duration-ms="5367" started-at="2020-12-20T19:06:06 IST" finished-at="2020-12-20T19:06:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Continue_booking -->
+        <test-method status="PASS" signature="Email()[pri:11, instance:ClearTrip.NewTest@711f39f9]" name="Email" duration-ms="4264" started-at="2020-12-20T19:06:12 IST" finished-at="2020-12-20T19:06:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Email -->
+        <test-method status="PASS" signature="Adult_traveller()[pri:12, instance:ClearTrip.NewTest@711f39f9]" name="Adult_traveller" duration-ms="5001" started-at="2020-12-20T19:06:16 IST" finished-at="2020-12-20T19:06:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adult_traveller -->
+        <test-method status="PASS" signature="Child()[pri:13, instance:ClearTrip.NewTest@711f39f9]" name="Child" duration-ms="1710" started-at="2020-12-20T19:06:21 IST" finished-at="2020-12-20T19:06:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Child -->
+        <test-method status="PASS" signature="Infant()[pri:14, instance:ClearTrip.NewTest@711f39f9]" name="Infant" duration-ms="1719" started-at="2020-12-20T19:06:23 IST" finished-at="2020-12-20T19:06:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Infant -->
+        <test-method status="PASS" signature="Mobile_number()[pri:15, instance:ClearTrip.NewTest@711f39f9]" name="Mobile_number" duration-ms="1135" started-at="2020-12-20T19:06:24 IST" finished-at="2020-12-20T19:06:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile_number -->
+        <test-method status="PASS" signature="Continue_button()[pri:16, instance:ClearTrip.NewTest@711f39f9]" name="Continue_button" duration-ms="8337" started-at="2020-12-20T19:06:26 IST" finished-at="2020-12-20T19:06:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Continue_button -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:ClearTrip.NewTest@711f39f9]" name="afterTest" is-config="true" duration-ms="790" started-at="2020-12-20T19:06:34 IST" finished-at="2020-12-20T19:06:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ClearTrip.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
